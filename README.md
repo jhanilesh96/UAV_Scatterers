@@ -4,3 +4,5 @@ Generates scatterers based on 'Wentz, M., & Stojanovic, M. (2015, September). A 
 
 
 ![](Figure_1.png)
+![](Figure_2.png)
+![](Figure_3.png)
